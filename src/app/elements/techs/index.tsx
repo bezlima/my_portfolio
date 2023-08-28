@@ -25,11 +25,23 @@ export default function Techs() {
                     <SmCard abbr={'ReactJs'}>
                         <Image src={'./React.svg'} alt="ReactJs" width={60} height={60} />
                     </SmCard>
+                    <SmCard abbr={'Redux'}>
+                        <Image src={'./redux.svg'} alt="Redux" width={60} height={60} />
+                    </SmCard>
+                    <SmCard abbr={'React-hook-form'}>
+                        <Image src={'/reacthookform.png'} alt="React-hook-form" width={60} height={60} />
+                    </SmCard>
+                    <SmCard abbr={'Integração com api'}>
+                        <Image src={'/api.png'} alt="Integração com api" width={60} height={60} />
+                    </SmCard>
                     <SmCard abbr={'Tailwind'}>
                         <Image src={'./tailwind.svg'} alt="Tailwind" width={80} height={80} />
                     </SmCard>
                     <SmCard abbr={'Sass'}>
                         <Image src={'./sass.svg'} alt="Sass" width={80} height={80} />
+                    </SmCard>
+                    <SmCard abbr={'Styled component'}>
+                        <Image src={'/styled-component.png'} alt="Styled component" width={60} height={60} />
                     </SmCard>
                     <SmCard abbr={'Css3'}>
                         <Image src={'./css3.svg'} alt="Css3" width={50} height={50} />
@@ -52,12 +64,6 @@ export default function Techs() {
                     <SmCard abbr={'Adobe Photoshop'}>
                         <Image src={'./psd.svg'} alt="Adobe Photoshop" width={60} height={60} />
                     </SmCard>
-                    {/* 
-                            style-component
-                            redux
-                            react-rook-form
-                            api
-                        */}
                 </div>
             </div>
         </div>
