@@ -5,12 +5,12 @@ export default function Works() {
         {
             name: 'B2K TECH',
             period: 'Ago 2022 - Atual',
-            description: 'Empresa que desenvolve soluções tenológicas voltadas ao agronegócio',
+            description: 'Empresa que desenvolve soluções tecnológicas voltadas ao agronegócio',
         },
         {
             name: 'TURIER TECH',
             period: 'Ago 2022 - Jan 2023',
-            description: 'Empresa que desenvolve soluções tenológicas voltadas a saúde',
+            description: 'Empresa que desenvolve soluções tecnológicas voltadas a saúde',
         },
     ]
 
