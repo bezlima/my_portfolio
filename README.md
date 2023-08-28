@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lucas Bezerra de Lima
 
-## Getting Started
+Sou desenvolvedor front-end, migrei para a programação a dois anos. Como pessoa, sou comunicativo, busco sempre aprimorar e aprender novas tecnologias, trabalho bem em equipe, cumpro os prazos desejados, busco sempre a melhor estrutura do projeto e insisto na solução de problemas que surgem. Atualmente estou buscando uma melhor estabilidade nessa área para conseguir me aprofundar ainda mais em novas tecnologias e abranger meus conhecimentos.
 
-First, run the development server:
+#### Contato:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+você pode entrar em contato por
+_email:_ lucas.lima.psico@hotmail.com
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+se conectar comigo através do:
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bezlima/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+você pode ver meu website em:
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-sigma-five-79.vercel.app/)
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+e baixar em currículo em:
+[![portfolio](https://img.shields.io/badge/curriculum_vitae-000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1BZyRNnK0dQnxHLE4E_SK0fwMM9hHc3VC/view?usp=drive_link)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Habilidades
 
-## Learn More
+#### Framework:
 
-To learn more about Next.js, take a look at the following resources:
+NextJs.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### Bibliotecas:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Utilizo as bibliotecas ReactJS, Redux, Reack-hook-form, React-leaflet, Victory-chart entre outras ligadas ao ecossistema react.
 
-## Deploy on Vercel
+#### Estilização:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Possuo experiência de estilização com CSS, SASS, Tailwind e Styled-component, tenho facilidade para aprender sistemas de estilização, inclusive com sistemas ui integrado como MuiMaterials.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### Linguagem:
+
+Experiência na utilização das linguagens Javascript e TypeScript.
+
+#### Marcação:
+
+Habilidades na utilização do HTML.
+
+#### Manipulação de imagens:
+
+Possuo conhecimento em instrumentos de manipulação de imagens como Figma, Adobe Photoshop, Adobe Illustrator, entre outros que possuem estruturas similares.
