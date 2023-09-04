@@ -72,7 +72,7 @@ export default function ProjectCard({
                 </div>
                 <div className="flex-col">
                     <h2 className={`text-brown text-md font-bold dark:text-white mb-3 ${office.className}`}>{title}</h2>
-                    <p className={`text-brown text-sm dark:text-white break-all ${office.className}`}>{description}</p>
+                    <p className={`text-brown text-sm dark:text-white ${office.className}`}>{description}</p>
                 </div>
             </div>
             <p className={`text-brown text-sm dark:text-white mt-3  ${office.className}`}>{techs}</p>

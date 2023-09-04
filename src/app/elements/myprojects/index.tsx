@@ -16,6 +16,14 @@ export default function Project() {
                     techs={'NextJs, ReactJs, TypeScript & React-Leaflet'}
                 />
                 <ProjectCard
+                    url={'https://github.com/bezlima/chord-api'}
+                    title={'chord-api'}
+                    description={
+                        'Sistema back-end de Data scraping do cifra club que retorna um html string para utilização em um front-end.'
+                    }
+                    techs={'NodeJs, Express, Cheerio & TypeScript'}
+                />
+                <ProjectCard
                     url={'https://github.com/bezlima/draw-black-board'}
                     title={'draw-black-board'}
                     description={
