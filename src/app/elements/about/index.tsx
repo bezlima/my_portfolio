@@ -5,6 +5,8 @@ import Typewriter from '../../components/typewriter'
 import { office } from '@/app/styles/fonts'
 
 export default function About() {
+    const cv = '/cv/CV-LucasLima.pdf'
+
     return (
         <div id="about" className="flex flex-col lg:flex-row items-center justify-center h-full my-20">
             <div className="w-2/4 items-center justify-evenly">
@@ -34,7 +36,7 @@ export default function About() {
                             }}
                         />
                     </Link>
-                    <a href="../../cv/lucasLimacv.pdf" download={'currículo_Lucas_Lima.pdf'}>
+                    <a href={cv} download={'currículo_Lucas_Lima.pdf'}>
                         <Image src="/file-arrow-down-bold.svg" alt="icon currículo" width={50} height={50} />
                     </a>
                     <Link href={'https://www.linkedin.com/in/lucas-bezerra-de-lima-64310b237/'} target="_blank">
