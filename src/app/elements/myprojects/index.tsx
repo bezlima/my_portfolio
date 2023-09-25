@@ -16,12 +16,10 @@ export default function Project() {
                     techs={'NextJs, ReactJs, TypeScript & React-Leaflet'}
                 />
                 <ProjectCard
-                    url={'https://github.com/bezlima/chord-api'}
-                    title={'chord-api'}
-                    description={
-                        'Sistema back-end de Data scraping do cifra club que retorna um html string para utilização em um front-end.'
-                    }
-                    techs={'NodeJs, Express, Cheerio & TypeScript'}
+                    url={'https://github.com/bezlima/api-rest'}
+                    title={'api-rest                    '}
+                    description={'Api rest criado com TypeScript, Node.JS, Express, MongoDB e Mongoose.'}
+                    techs={'NodeJs, Express, MongoDB, Mongoose & TypeScript'}
                 />
                 <ProjectCard
                     url={'https://github.com/bezlima/draw-black-board'}
@@ -56,12 +54,18 @@ export default function Project() {
                     techs={'NextJs, ReactJs, Tailwind & TypeScript'}
                 />
                 <ProjectCard
-                    url={'https://github.com/bezlima/CalculadoraImc'}
-                    title={'CalculadoraImc'}
+                    url={'https://github.com/bezlima/brasileirao-api'}
+                    title={'brasileirao-api'}
+                    description={'Sistema back-end de Data scraping do brasileirão que retorna a tabela do campeonato.'}
+                    techs={'NodeJs, Express, Cheerio & TypeScript'}
+                />
+                <ProjectCard
+                    url={'https://github.com/bezlima/chord-api'}
+                    title={'chord-api'}
                     description={
-                        'Estudos de conceitos básicos em JavaScript, esse foi um dos primeiros projetos que desenvolvi com JavaScript'
+                        'Sistema back-end de Data scraping do cifra club que retorna um html string para utilização em um front-end.'
                     }
-                    techs={'HTML5, CSS3 e JavaScript'}
+                    techs={'NodeJs, Express, Cheerio & TypeScript'}
                 />
             </div>
         </div>
