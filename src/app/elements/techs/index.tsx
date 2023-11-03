@@ -15,7 +15,7 @@ export default function TechSection() {
             <Title icon={'/code-icon.svg'} iconSize={[25, 25]} alt={'foo'}>
                 Tecnologias
             </Title>
-            <span className="mt-4 flex w-full overflow-auto h-full gap-3">
+            <span className="mt-4 flex w-full overflow-hidden h-full gap-3">
                 {techs &&
                     techs.map((item: IItems, index: number) => {
                         return (

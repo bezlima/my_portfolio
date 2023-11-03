@@ -24,7 +24,7 @@ export default function MediumCard({ title, description, date, introduction }: I
                 {date && <p className="tracking-wide font-semibold text-sm -mt-4 uppercase">{date}</p>}
                 <p className="tracking-wide font-semibold text-sm -mt-2 uppercase">{introduction}</p>
             </span>
-            <p className="tracking-wide font-semibold text-base mt-8">{description}</p>
+            <p className="tracking-wide font-semibold text-base mt-8 text-justify">{description}</p>
         </section>
     )
 }

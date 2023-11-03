@@ -1,0 +1,25 @@
+[
+    {
+        "frontend": [
+            {
+                "title": "my-maps",
+                "introduction": "TypeScript, NextJs, Axios, React-leaflet & Tailwind",
+                "description": "O projeto é uma aplicação web interativa que permite ao usuário ver e interagir com um mapa, tendo como base Open Street Map e React-leaflet."
+            }
+        ],
+        "backend": [
+            {
+                "title": "web-socket-chat",
+                "introduction": "TypeScript, NodeJs, Express & Socket.io",
+                "description": "Chat em tempo real utilizando WS"
+            }
+        ],
+        "mobile": [
+            {
+                "title": "native_navigation ",
+                "introduction": "JavaScript, React Native & ExpoGo",
+                "description": "Projeto criado para aprender estrutura de navegação no React-Native. As estruturas de navegação utilizadas foram: Drawer, Tab e Stack."
+            }
+        ]
+    }
+]

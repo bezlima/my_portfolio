@@ -34,12 +34,13 @@ export default function TechCard({ title, width, height, path }: ITechCard) {
                 className={`
                     font-bold
                     text-white
-                    text-md
+                    text-base
                     group-hover:text-teal-600
                     z-10
                     w-full
                     text-start
-                    pl-4
+                    px-1
+                    mb-2
                     uppercase
                 `}
             >
