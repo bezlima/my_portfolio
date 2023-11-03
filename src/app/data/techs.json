@@ -1,0 +1,116 @@
+[
+    {
+        "name": "next",
+        "url": "/nextjs.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "react",
+        "url": "/react.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "node",
+        "url": "/node.svg",
+        "width": 80,
+        "height": 80
+    },
+    {
+        "name": "express",
+        "url": "/express.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "mongodb",
+        "url": "/mongodb.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "redux",
+        "url": "/redux.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "react-hook-form",
+        "url": "/reacthookform.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "git",
+        "url": "/git.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "github",
+        "url": "/github.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "scrum",
+        "url": "/scrum.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "api",
+        "url": "/api.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "tailwind",
+        "url": "/tailwind.svg",
+        "width": 80,
+        "height": 80
+    },
+    {
+        "name": "sass",
+        "url": "/sass.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "styled-components",
+        "url": "/styledcomponents.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "css",
+        "url": "/css.svg",
+        "width": 80,
+        "height": 80
+    },
+    {
+        "name": "html",
+        "url": "/html.svg",
+        "width": 80,
+        "height": 80
+    },
+    {
+        "name": "figma",
+        "url": "/figma.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "illustrator",
+        "url": "/illustrator.svg",
+        "width": 60,
+        "height": 60
+    },
+    {
+        "name": "photoshop",
+        "url": "/photoshop.svg",
+        "width": 60,
+        "height": 60
+    }
+]

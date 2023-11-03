@@ -1,0 +1,14 @@
+[
+    {
+        "company": "b2k tech",
+        "date": "ago 2022 - atual",
+        "description": "Empresa que desenvolve soluções tecnológicas voltadas ao agronegócio",
+        "introduction": "desenvolvedor front-end"
+    },
+    {
+        "company": "Healve",
+        "date": "jan 2022 - jul 2022",
+        "description": "Empresa que desenvolve soluções tecnológicas voltadas a saúde",
+        "introduction": "desenvolvedor full-stack"
+    }
+]

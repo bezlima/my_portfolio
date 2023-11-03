@@ -1,4 +1,4 @@
-import { Inter, Press_Start_2P, Roboto } from 'next/font/google'
+import { Inter, Press_Start_2P, Roboto, Bebas_Neue } from 'next/font/google'
 
 const font2d = Press_Start_2P({
     subsets: ['latin'],
@@ -10,6 +10,11 @@ const office = Roboto({
     weight: '400',
 })
 
+const netflix = Bebas_Neue({
+    subsets: ['latin'],
+    weight: '400',
+})
+
 const inter = Inter({ subsets: ['latin'] })
 
-export { font2d, inter, office }
+export { font2d, inter, office, netflix }
