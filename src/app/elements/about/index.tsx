@@ -21,7 +21,7 @@ export default function About() {
                         Desenvolvedor front-end
                     </p>
                     <p className={`text-black text-sm sm:text-base dark:text-white ${office.className}`}>
-                        Contato: lucas.lima.psico@hotmail.com
+                        Contato: bezlima.lucas@gmail.com
                     </p>
                 </div>
                 <div className="flex items-center justify-center gap-10 mt-6">
